@@ -9,7 +9,6 @@
 - Python 3.8.5
 - MySQL 8.0
 - nginx 1.18
-- composer 1.10
 
 ### サービスの構築
 ```
